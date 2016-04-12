@@ -4,10 +4,10 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 
 #User Credentials from twitter app 
-access_token = "714148187087511552-NQLJ69wMV4G32zCoIjMdPdOsbc71lGA"
-access_token_secret = "joGlBVfELJkPyIObQCabRVdIy8lT3gXpATLz9xplN1sBI"
-consumer_key = "oAUT454OIA9BbJcESTJkcaAa6"
-consumer_secret = "SOlauJ7HdIqwA57BDtZV6W1BCsWjulaihfcVU0aiyW2yiXHdc4"
+access_token = "INSET_ACCESS_TOKEN_HERE"
+access_token_secret = "INSERT_TOKEN_SECRET_HERE"
+consumer_key = "INSERT_CONSUMER_KEY_HERE"
+consumer_secret = "INSERT_CONSUMER_SECRET_HERE"
 
 word1='google'
 
